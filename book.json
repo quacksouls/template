@@ -1,0 +1,15 @@
+{
+    "plugins": [
+        "chollapse",
+        "octocat",
+        "remove-published-with-link"
+    ],
+    "pluginsConfig": {
+        "fontsettings": {
+            "family": "serif"
+        },
+        "octocat": {
+            "url": "https://github.com/quacksouls/template"
+        }
+    }
+}
