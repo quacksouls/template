@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "chollapse",
         "octocat",
         "remove-published-with-link"
     ],
