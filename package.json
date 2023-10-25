@@ -4,7 +4,7 @@
   "description": "A template for documentation",
   "main": "index.js",
   "scripts": {
-    "clean": "prettier --write README.md doc",
+    "clean": "prettier --write README.md doc/*.md",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
